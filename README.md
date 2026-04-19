@@ -16,7 +16,7 @@ Communication Systems — 4 credits.
 IoT — 4 credits.    
 Power Management of ES — 4 credits.        
 Biomedical ES — 4 credits.      
-Operating Systems — 4 credits.    
+Operating Systems — 4 credits.   (optional, either apprenticeship of another 4 creds or this) 
 
 Apprenticeship
 --
