@@ -5,7 +5,7 @@ Current Term
 --
 Course 1 — 4 credits.  
 Course 2 — 4 credits.  
-Non-CGPA Course — 3 credits.   
+Non-CGPA Course — 4 credits.   
 
 Future Courses
 --
