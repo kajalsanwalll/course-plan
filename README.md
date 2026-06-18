@@ -4,13 +4,13 @@ Remaining courses
 Current Term May
 --
 Electromagnetic Fields and Transmission Lines — 4 credits.  
-NPTEL Course - 1 credit HS/HG (july) // 4 weeks
-NPTEL Course - 3 credits (july) // 12 weeks
+NPTEL Course - 1 credit HS/HG (july) // 4 weeks     
+NPTEL Course - 3 credits (july) // 12 weeks     
 
 Next Term Sept
 ---
 
-Embedded Linux and FPGA Lab — 1 credit.  
+Embedded Linux and FPGA Lab — 1 credit.    
 Probability and Statistics — 4 credits.     
 Communication Systems — 4 credits.  
 
