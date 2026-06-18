@@ -4,7 +4,8 @@ Remaining courses
 Current Term May
 --
 Electromagnetic Fields and Transmission Lines — 4 credits.  
-NPTEL Course - 4 credits (july)
+NPTEL Course - 1 credit HS/HG (july) // 4 weeks
+NPTEL Course - 3 credits (july) // 12 weeks
 
 Next Term Sept
 ---
