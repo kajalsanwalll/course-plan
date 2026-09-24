@@ -1,13 +1,11 @@
-Remaining courses
+Remaining courses (credits remaining = 20 after sept term)
 --
 
-Current Term May
+past Term May
 --
-Electromagnetic Fields and Transmission Lines — 4 credits.  
-NPTEL Course - 1 credit HS/HG (july) // 4 weeks     
-NPTEL Course - 3 credits (july) // 12 weeks     
+Electromagnetic Fields and Transmission Lines — 4 credits.    
 
-Next Term Sept
+this Term Sept
 ---
 
 Embedded Linux and FPGA Lab — 1 credit.    
@@ -19,8 +17,11 @@ Future Courses Jan
 
 IoT — 4 credits.    
 Power Management of ES — 4 credits.        
-Biomedical ES — 4 credits.      
+Biomedical ES — 4 credits. 
+NPTEL Course - 1 credit HS/HG (july) // 4 weeks     
+NPTEL Course - 3 credits (july) // 12 weeks     
 
-Apprenticeship
+Open Electives
 --
-Apprenticeship — 4 credits
+
+Computer Networks.   // 4 credits
